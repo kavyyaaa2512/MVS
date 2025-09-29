@@ -68,7 +68,7 @@ Have ideas to improve the website? Feel free to fork this repo and submit a pull
 
 📍 Madhuvan Visuals Studio – Isanpur
 📸 Email: madhuvan9879@gmail.com
-]
+
 📸 Instagram: @madhuvanvisuals
 
 📸 YouTube: Madhuvan studio isanpur
