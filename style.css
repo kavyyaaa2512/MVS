@@ -44,7 +44,7 @@ nav a:hover {
   display: flex;
   align-items: center;
   background-image:
-    url('image/bg\ Imaage.jpg'); 
+    url('bg Imaage.jpg'); 
   background-size: cover;          
   background-position: center right;
   background-repeat: no-repeat;
@@ -271,7 +271,7 @@ button:hover {
 }
 .bgabout{
   min-height: 80vh;
-  background-image: url('image/bgabout.jpg');
+  background-image: url('bgabout.jpg');
   background-size: cover;          
   background-position: center right;
   background-repeat: no-repeat;
